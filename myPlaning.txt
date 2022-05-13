@@ -1,0 +1,5 @@
+Planing 2022:
+
+1. belajar git dan github
+2. belajar buat web dengan linux
+3. buat app tugas akhir dengan mengimplemetasikan git dan linux
